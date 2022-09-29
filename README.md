@@ -1,5 +1,5 @@
-# Netguru iOS code review
+# Code Review Demo
 
-## Payment-Epic-F013
+This is a simple Demo for how i usually do code review. to follow along please : 
 
-   F[number] -> stands for Feature
+- check this closed PR https://github.com/Abdeltwab/Code-Review/pulls?q=is%3Apr+is%3Aclosed 
